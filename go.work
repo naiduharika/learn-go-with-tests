@@ -2,7 +2,8 @@ go 1.19
 
 use (
 	./adder
+	./arrays_and_slices
 	./hello_world
 	./iteration
-	./arrays_and_slices
+	./structs_methods_and_interfaces
 )
