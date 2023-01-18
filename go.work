@@ -5,5 +5,6 @@ use (
 	./arrays_and_slices
 	./hello_world
 	./iteration
+	./pointer_and_errors
 	./structs_methods_and_interfaces
 )
